@@ -1,0 +1,3 @@
+name,bankId,cash,email,pinNumber,loanApplied,loanAmount,branch
+Arun Jangra,45671234001,207930,arunjngra89@gmail.com,3412,False,0,New York
+Vicky Jangra,45671234003,1858705,vickyvick@gmail.com,3456,False,0,New York
