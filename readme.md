@@ -3,6 +3,7 @@ This is a banking system made with python and uses csv files to store data and p
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
+
 ## How to use:
 * First navigate to the folder and write the following command in terminal
 ```ssh
