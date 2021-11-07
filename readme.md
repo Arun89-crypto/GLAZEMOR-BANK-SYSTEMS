@@ -1,5 +1,5 @@
 # Glazemor Banking System
-This is a banking system made with python and uses csv files to store data
+This is a banking system made with python and uses csv files to store data and pandas module to perform CRUD in csv files
 
 ## How to use:
 * First navigate to the folder and write the following command in terminal
